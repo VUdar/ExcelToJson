@@ -1,0 +1,14 @@
+{
+  "github": {
+    "token": "",
+    "owner": "VUdar",
+    "repo": "ExcelToJson",
+    "branch": "main",
+    "file_path": "Input/config.json"
+  },
+  "mongodb": {
+    "uri": "mongodb+srv://udarvitthal32_db_user:2yOaPbU58xjX5NDl@cluster0.5kynosv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "database_name": "ExcelToJsonDB",
+    "collection_name": "ExcelJson"
+  }
+}
